@@ -4,6 +4,10 @@
 
 This is a hand gesture recognition and control project based on MediaPipe and OpenCV, which can be used to control web models in tres.js.
 
+## Project Demo
+
+![Hand Gesture Control Demo](MadewithFlexClip.gif)
+
 ## Usage
 
 1. Install dependencies:
@@ -24,10 +28,6 @@ python hand_detection.py
 
 - `hand_detection.py`: Main program file
 - `hand_landmarker.task`: MediaPipe hand detection model
-
-## Project Demo
-
-![Hand Gesture Control Demo](MadewithFlexClip.gif)
 
 ## Notes
 
