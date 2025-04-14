@@ -27,7 +27,7 @@ python hand_detection.py
 
 ## Project Demo
 
-![Hand Gesture Control Demo](Untitled ‑ Made with FlexClip.gif)
+![Hand Gesture Control Demo](Made with FlexClip.gif)
 
 ## Notes
 
